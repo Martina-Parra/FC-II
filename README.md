@@ -1,2 +1,2 @@
-# Apuntes-Compu2
+# FC-II
 Apuntes de Fisica Computacional II
